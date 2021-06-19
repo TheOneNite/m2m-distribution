@@ -1,3 +1,86 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dd7b78415a42bd65b67364da564448ae94f289c6c6d114f369a5096bd6144201
-size 3050
+[
+	{
+		"path": ":root/WindowsNoEditor/Manifest_NonUFSFiles_Win32.txt",
+		"hash": "2c7cbc55040e5d66270ce3de2905c33f"
+	},
+	{
+		"path": ":root/WindowsNoEditor/Mission2Mars.exe",
+		"hash": "ccf5b957b2324492b2d2f4892174d40c"
+	},
+	{
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/Oculus/OculusMobile/SDK_1_0_3/Win32/VrApiShim.dll",
+		"hash": "e20c2be0df88595e03cb9231df678350"
+	},
+	{
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/Ogg/Win32/VS2015/libogg.dll",
+		"hash": "a7e215a33b107dca707a3547149293eb"
+	},
+	{
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_0_6/Win32/openvr_api.dll",
+		"hash": "201ab45bdced33ced448b97374900546"
+	},
+	{
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win32/VS2015/ApexFramework_x86.dll",
+		"hash": "8948e9a0d4ffa2560de91b0bfcde3e0e"
+	},
+	{
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win32/VS2015/APEX_Clothing_x86.dll",
+		"hash": "d12d3971b020cc5dec1af43690ddd782"
+	},
+	{
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win32/VS2015/APEX_Destructible_x86.dll",
+		"hash": "15ba8b9ff56bd590a40e55f0d41d6f28"
+	},
+	{
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win32/VS2015/APEX_Legacy_x86.dll",
+		"hash": "6881b32013a40904bb69a6d408a405df"
+	},
+	{
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win32/VS2015/NvCloth_x86.dll",
+		"hash": "0aed4212d743971c74c24ea12c5c2472"
+	},
+	{
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win32/VS2015/PhysX3Common_x86.dll",
+		"hash": "e703cfb7e456b873f3d4263242c3f79f"
+	},
+	{
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win32/VS2015/PhysX3Cooking_x86.dll",
+		"hash": "9275fa2e2bc1603a4b39f1d049c9194e"
+	},
+	{
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win32/VS2015/PhysX3_x86.dll",
+		"hash": "bfd148ac0e02208c38877fb806c98ecf"
+	},
+	{
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win32/VS2015/PxFoundation_x86.dll",
+		"hash": "1d723bda3987b3973f024e90284394f2"
+	},
+	{
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win32/VS2015/PxPvdSDK_x86.dll",
+		"hash": "50710389dadb226188639fa57c928630"
+	},
+	{
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/Vorbis/Win32/VS2015/libvorbis.dll",
+		"hash": "727b79d6057029950d8f359727e4b8ac"
+	},
+	{
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/Vorbis/Win32/VS2015/libvorbisfile.dll",
+		"hash": "51d86431cfe3e4cfd428013791fc4262"
+	},
+	{
+		"path": ":root/WindowsNoEditor/Engine/Binaries/Win32/UE4Game-Win32-Shipping.exe",
+		"hash": "abac38647328e4a2472b79d536ed0d33"
+	},
+	{
+		"path": ":root/WindowsNoEditor/Engine/Build/Build.version",
+		"hash": "fcd78b8c047abd166144084e136fa009"
+	},
+	{
+		"path": ":root/WindowsNoEditor/Engine/Extras/Redist/en-us/UE4PrereqSetup_x86.exe",
+		"hash": "0eeddff32d9a1667ff0fb3b12d226ea1"
+	},
+	{
+		"path": ":root/WindowsNoEditor/Mission2Mars/Content/Paks/Mission2Mars-WindowsNoEditor.pak",
+		"hash": "da71d127152f3b4b45d0d21b367420f9"
+	}
+]
