@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:18e08059f6f699b47737e3f6c9e369db3fb2145538df43f3c1edcba64e7e62e9
-size 745
+const fs = require("fs");
+
+const generateFileList = (entryDir) => {
+  const readout = fs.readdirSync(entryDir, {});
+  let files = readout.filter((path) => {
+    return fs.statSync(entryDir + "/" + path).isFile();
+  });
+  files = files.map((name) => {
+    return entryDir + "/" + name;
+  });
+  let dirs = readout.filter((path) =>
+    fs.statSync(entryDir + "/" + path).isDirectory()
+  );
+  if (dirs.length > 0) {
+    dirs = dirs.map((dirName) => {
+      return entryDir + "/" + dirName;
+    });
+    let dirFiles = dirs.map(generateFileList);
+    dirFiles.forEach((fileNames) => {
+      files = files.concat(fileNames);
+    });
+  }
+  return files.filter((fileName) => !fileName.includes("desktop.ini"));
+};
+
+module.exports = { generateFileList };

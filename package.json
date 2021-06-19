@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:baa272d6bd06952c24e2577d85861161d21eae816737ee09f5cce6495157cdae
-size 482
+{
+  "name": "m2m-launch-server",
+  "version": "0.1.0",
+  "description": "server for m2m game launcher",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "game",
+    "space",
+    "electron"
+  ],
+  "author": "Travis Rilea",
+  "license": "MIT"
+}
