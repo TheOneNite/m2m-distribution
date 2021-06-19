@@ -6,8 +6,7 @@ const bodyParser = require('body-parser')
 const listenPort = 3389
 const manifestPath = __dirname + '/manifest.json'
 
-const rootDir =
-  'C:/Users/Travis/Documents/Workspaces/MiniMars/Mission2Mars_depot/Distribution/builds/dev/m2m'
+const rootDir = __dirname + '/builds/dev/m2m'
 
 app.use(bodyParser.json())
 app.use(cors({ origin: true }))
