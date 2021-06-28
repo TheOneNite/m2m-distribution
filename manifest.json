@@ -1,86 +1,94 @@
 [
 	{
-		"path": ":root/WindowsNoEditor/Manifest_NonUFSFiles_Win32.txt",
-		"hash": "2c7cbc55040e5d66270ce3de2905c33f"
+		"path": ":root/WindowsNoEditor/Manifest_NonUFSFiles_Win64.txt",
+		"hash": "38615d8bfb09b9625cc873b9a5f2df3b"
 	},
 	{
 		"path": ":root/WindowsNoEditor/Mission2Mars.exe",
-		"hash": "ccf5b957b2324492b2d2f4892174d40c"
+		"hash": "e64c694facca2938974936064ddb7bf9"
 	},
 	{
-		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/Oculus/OculusMobile/SDK_1_0_3/Win32/VrApiShim.dll",
-		"hash": "e20c2be0df88595e03cb9231df678350"
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.dll",
+		"hash": "041e24a10a8d6a40039a4e80665d7e68"
 	},
 	{
-		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/Ogg/Win32/VS2015/libogg.dll",
-		"hash": "a7e215a33b107dca707a3547149293eb"
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/Oculus/OculusMobile/SDK_1_0_3/Win64/VrApiShim.dll",
+		"hash": "4895ab6527b58c91edecb1c8ac7724cf"
 	},
 	{
-		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_0_6/Win32/openvr_api.dll",
-		"hash": "201ab45bdced33ced448b97374900546"
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll",
+		"hash": "cd1f16736ccc5dd8c8ce8525957f4cfb"
 	},
 	{
-		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win32/VS2015/ApexFramework_x86.dll",
-		"hash": "8948e9a0d4ffa2560de91b0bfcde3e0e"
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_0_6/Win64/openvr_api.dll",
+		"hash": "4d9ff32fa531f0a233c9b57ac31514a0"
 	},
 	{
-		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win32/VS2015/APEX_Clothing_x86.dll",
-		"hash": "d12d3971b020cc5dec1af43690ddd782"
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/ApexFramework_x64.dll",
+		"hash": "85080c7403d41a19f0592d9e5a260e2b"
 	},
 	{
-		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win32/VS2015/APEX_Destructible_x86.dll",
-		"hash": "15ba8b9ff56bd590a40e55f0d41d6f28"
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/APEX_Clothing_x64.dll",
+		"hash": "e5d48f36082d31c63a2cbabee1a7fee4"
 	},
 	{
-		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win32/VS2015/APEX_Legacy_x86.dll",
-		"hash": "6881b32013a40904bb69a6d408a405df"
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/APEX_Destructible_x64.dll",
+		"hash": "2041484379d3540cef1fbcd375e1fe0b"
 	},
 	{
-		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win32/VS2015/NvCloth_x86.dll",
-		"hash": "0aed4212d743971c74c24ea12c5c2472"
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/APEX_Legacy_x64.dll",
+		"hash": "5cd51a30855caaf1eea5ab47f3ebfba2"
 	},
 	{
-		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win32/VS2015/PhysX3Common_x86.dll",
-		"hash": "e703cfb7e456b873f3d4263242c3f79f"
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/NvCloth_x64.dll",
+		"hash": "2b52f3a0d5cd9800c11769f1f0df5de7"
 	},
 	{
-		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win32/VS2015/PhysX3Cooking_x86.dll",
-		"hash": "9275fa2e2bc1603a4b39f1d049c9194e"
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/PhysX3Common_x64.dll",
+		"hash": "7545fc32f369da9b58600b7c75754073"
 	},
 	{
-		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win32/VS2015/PhysX3_x86.dll",
-		"hash": "bfd148ac0e02208c38877fb806c98ecf"
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/PhysX3Cooking_x64.dll",
+		"hash": "3b01a05ef5d828b76db7cb13b36fe8aa"
 	},
 	{
-		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win32/VS2015/PxFoundation_x86.dll",
-		"hash": "1d723bda3987b3973f024e90284394f2"
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/PhysX3_x64.dll",
+		"hash": "01554f30bb9498f3a4a98b2efa271dfd"
 	},
 	{
-		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win32/VS2015/PxPvdSDK_x86.dll",
-		"hash": "50710389dadb226188639fa57c928630"
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/PxFoundation_x64.dll",
+		"hash": "d28741de91c6b671fb44e6b52dd10a34"
 	},
 	{
-		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/Vorbis/Win32/VS2015/libvorbis.dll",
-		"hash": "727b79d6057029950d8f359727e4b8ac"
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX/Win64/VS2015/PxPvdSDK_x64.dll",
+		"hash": "69a39aa85f8cfdea0dd80641b588db9d"
 	},
 	{
-		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/Vorbis/Win32/VS2015/libvorbisfile.dll",
-		"hash": "51d86431cfe3e4cfd428013791fc4262"
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll",
+		"hash": "f453241dec90dbfa5b7322cc4a67a143"
 	},
 	{
-		"path": ":root/WindowsNoEditor/Engine/Binaries/Win32/UE4Game-Win32-Shipping.exe",
-		"hash": "abac38647328e4a2472b79d536ed0d33"
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll",
+		"hash": "ce94029c20227191bf97f6d719b651c5"
+	},
+	{
+		"path": ":root/WindowsNoEditor/Engine/Binaries/ThirdParty/Windows/DirectX/x64/WinPixEventRuntime.dll",
+		"hash": "ddc606a35700e5b41019b4669a71fccb"
+	},
+	{
+		"path": ":root/WindowsNoEditor/Engine/Binaries/Win64/UE4Game-Win64-Shipping.exe",
+		"hash": "5dae13ad05e6fadde94ae5b336716378"
 	},
 	{
 		"path": ":root/WindowsNoEditor/Engine/Build/Build.version",
 		"hash": "fcd78b8c047abd166144084e136fa009"
 	},
 	{
-		"path": ":root/WindowsNoEditor/Engine/Extras/Redist/en-us/UE4PrereqSetup_x86.exe",
-		"hash": "0eeddff32d9a1667ff0fb3b12d226ea1"
+		"path": ":root/WindowsNoEditor/Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe",
+		"hash": "2e330b9919581fe274c4ebba0d89b151"
 	},
 	{
 		"path": ":root/WindowsNoEditor/Mission2Mars/Content/Paks/Mission2Mars-WindowsNoEditor.pak",
-		"hash": "da71d127152f3b4b45d0d21b367420f9"
+		"hash": "1ca4be132798f0024701691f6f53c204"
 	}
 ]
